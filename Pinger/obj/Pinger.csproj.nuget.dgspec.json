@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\CUIApplication\\PingerSLN\\Pinger\\Pinger.csproj": {}
+  },
+  "projects": {
+    "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj",
+        "projectName": "ExceptionClasses",
+        "projectPath": "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj",
+        "packagesPath": "C:\\Users\\sasidhar.r\\.nuget\\packages\\",
+        "outputPath": "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sasidhar.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CUIApplication\\PingerSLN\\PingerFile\\PingerFile.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CUIApplication\\PingerSLN\\PingerFile\\PingerFile.csproj",
+        "projectName": "PingerFile",
+        "projectPath": "C:\\CUIApplication\\PingerSLN\\PingerFile\\PingerFile.csproj",
+        "packagesPath": "C:\\Users\\sasidhar.r\\.nuget\\packages\\",
+        "outputPath": "C:\\CUIApplication\\PingerSLN\\PingerFile\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sasidhar.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj": {
+                "projectPath": "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\CUIApplication\\PingerSLN\\Pinger\\Pinger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\CUIApplication\\PingerSLN\\Pinger\\Pinger.csproj",
+        "projectName": "Pinger",
+        "projectPath": "C:\\CUIApplication\\PingerSLN\\Pinger\\Pinger.csproj",
+        "packagesPath": "C:\\Users\\sasidhar.r\\.nuget\\packages\\",
+        "outputPath": "C:\\CUIApplication\\PingerSLN\\Pinger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sasidhar.r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj": {
+                "projectPath": "C:\\CUIApplication\\PingerSLN\\ExceptionClasses\\ExceptionClasses.csproj"
+              },
+              "C:\\CUIApplication\\PingerSLN\\PingerFile\\PingerFile.csproj": {
+                "projectPath": "C:\\CUIApplication\\PingerSLN\\PingerFile\\PingerFile.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.csproj.AssemblyReference.cache
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.AssemblyInfoInputs.cache
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.AssemblyInfo.cs
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.csproj.CoreCompileInputs.cache
+C:\CUIApplication\PingerSLN\PingerFile\bin\Debug\net5.0\PingerFile.deps.json
+C:\CUIApplication\PingerSLN\PingerFile\bin\Debug\net5.0\PingerFile.dll
+C:\CUIApplication\PingerSLN\PingerFile\bin\Debug\net5.0\PingerFile.pdb
+C:\CUIApplication\PingerSLN\PingerFile\bin\Debug\net5.0\ExceptionClasses.dll
+C:\CUIApplication\PingerSLN\PingerFile\bin\Debug\net5.0\ExceptionClasses.pdb
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.csproj.CopyComplete
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.dll
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\refint\PingerFile.dll
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\PingerFile.pdb
+C:\CUIApplication\PingerSLN\PingerFile\obj\Debug\net5.0\ref\PingerFile.dll
